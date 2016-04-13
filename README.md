@@ -1,2 +1,3 @@
-# basicprogramming
-Hackerearth Basic Programming
+# Hackerearth Basic Programming
+
+1. [Basic Math](basicmath/basicmath.md)
